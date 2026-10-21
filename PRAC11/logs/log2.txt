@@ -1,0 +1,3 @@
+Application running
+ERROR: connection failed
+User logged out
